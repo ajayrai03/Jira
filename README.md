@@ -1,2 +1,2 @@
-# Jira-
+# Jira
 Jira is a Todo App
